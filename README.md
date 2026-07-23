@@ -1,39 +1,53 @@
-# AI Mini Internship
+# Build Your Own Web Game Using AI
 
-## Build Your Own Web Game Using AI
+**Duration:** 2–3 hours
 
-**Duration:** 2-3 hours
+---
 
-**Goal**
+# Welcome!
+
+Today you'll become an **AI Software Creator**.
+
+Professional software engineers don't always write every line of code themselves. Instead, they work with AI tools to help them design, build, improve, and publish software.
+
+By the end of today you will have built your own web game and published it online for anyone to play.
+
+---
+
+# Goal
 
 By the end of today you will have:
 
 ✅ Designed your own game
 
-✅ Used AI to help create it
+✅ Learned how to communicate with AI using prompts
 
-✅ Learned how software is built
+✅ Created images using AI
 
-✅ Published your game online
+✅ Built a working web game using an AI coding agent
 
-✅ Shared the link with your friends
+✅ Learned the basics of software development
+
+✅ Published your game on GitHub Pages
+
+✅ Shared your game with your friends using a real website link
 
 ---
 
 # What You'll Learn
 
-Today you'll experience how many software engineers build products using AI.
+Today you'll practice skills used by modern software engineers.
 
-Instead of writing hundreds of lines of code yourself, you'll learn how to become the **designer** and let AI become your coding assistant.
+These include:
 
-You'll practice:
-
-* Creative thinking
-* Prompt writing
-* Giving clear instructions
-* Using AI tools
-* Testing software
-* Publishing websites
+- 💡 Creative thinking
+- ✍️ Prompt writing
+- 🤖 Working with different AI tools
+- 🎨 Creating AI images
+- 💻 Building software
+- 🧪 Testing software
+- 🔄 Improving software
+- 🌍 Publishing websites
 
 ---
 
@@ -41,15 +55,15 @@ You'll practice:
 
 ## What is AI?
 
-Artificial Intelligence (AI) is software that understands language and can help create text, images, videos and even computer programs.
+Artificial Intelligence (AI) is software that understands language and can help create text, images, videos, and even computer programs.
 
-Think of it as a very smart assistant.
+Think of AI as a very smart assistant that can help you turn your ideas into reality.
 
 ---
 
 ## What is a Prompt?
 
-A prompt is simply an instruction you give to AI.
+A **prompt** is simply an instruction you give to AI.
 
 Example:
 
@@ -57,7 +71,9 @@ Example:
 
 The better your prompt...
 
-...the better the result.
+...the better the AI can help you.
+
+Learning how to write good prompts is one of the most valuable skills you'll practice today.
 
 ---
 
@@ -65,15 +81,15 @@ The better your prompt...
 
 A normal chatbot answers questions.
 
-An **AI Agent** can also perform tasks.
+An **AI Agent** can actually perform tasks.
 
 For example it can:
 
-* write code
-* fix bugs
-* organize files
-* improve your project
-* build an entire website
+- write code
+- organize files
+- fix bugs
+- improve software
+- create an entire application
 
 You tell the agent what you want.
 
@@ -87,9 +103,9 @@ Claude Code is an AI coding assistant.
 
 Instead of writing all the programming yourself, you explain what you want.
 
-Claude Code writes the code, improves it, and fixes problems.
+Claude Code writes the code, improves it, fixes problems, and helps build your project.
 
-You are still the designer.
+You are the designer.
 
 Claude Code becomes your programmer.
 
@@ -97,16 +113,16 @@ Claude Code becomes your programmer.
 
 ## What is GitHub?
 
-GitHub is where programmers store their projects.
+GitHub is where programmers save and share software projects.
 
-Think of it like Google Drive for software.
+Think of it like Google Drive for code.
 
 It lets you:
 
-* save code
-* share code
-* improve code
-* publish websites
+- save projects
+- track changes
+- work with others
+- publish websites
 
 ---
 
@@ -114,67 +130,116 @@ It lets you:
 
 GitHub Pages turns your project into a real website.
 
-Instead of:
+Instead of this:
 
 ```
-MyGame.html
+index.html
 ```
 
-your game becomes
+your game becomes something like:
 
 ```
-https://yourusername.github.io/mygame
+https://yourusername.github.io/my-awesome-game
 ```
 
-Anyone with the link can play.
+Anyone with the link can play your game!
+
+---
+
+# Today's Workflow
+
+Today you'll use **three different AI tools**, each with a different job.
+
+| Tool | Job |
+|------|-----|
+| 💬 ChatGPT (or Claude) | Design the game by asking you questions |
+| 🎨 Image AI | Create artwork for your game |
+| 💻 Claude Code | Build the game from your design |
+| 🌍 GitHub | Publish your game online |
+
+Professional software engineers often use multiple AI tools together. Each tool has its own strengths.
+
+---
+
+# Step 0 — Set Up Your Accounts
+
+## Part A — Create a GitHub Account
+
+1. Go to https://github.com
+2. Click **Sign Up**
+3. Choose a username.
+4. Enter your email.
+5. Create a password.
+6. Verify your email if asked.
+7. Log in.
+
+Congratulations! You now have your own GitHub account.
+
+---
+
+## Part B — Create a Claude Account
+
+1. Go to https://claude.ai
+2. Click **Sign Up**
+3. Sign in with Google or create an account using your email.
+4. Complete any verification steps.
+5. Open a new chat.
+
+Your mentor will provide access to Claude Code.
+
+---
+
+## Before You Continue
+
+Make sure you have:
+
+☐ GitHub account
+
+☐ Claude account
+
+☐ Claude Code open
+
+☐ ChatGPT (or Claude) ready
 
 ---
 
 # Your Challenge
 
-Create an original web game.
+Create your own original web game.
 
-You can invent anything.
+It can be anything you imagine.
 
-Examples:
+Some ideas:
 
-* Space Adventure
-* Cookie Catcher
-* Shark Escape
-* Magic Forest
-* Penguin Jump
-* Dragon Flight
-* Memory Game
-* Treasure Hunter
-* Emoji Battle
+- Space Adventure
+- Cookie Catcher
+- Shark Escape
+- Penguin Jump
+- Emoji Battle
+- Treasure Hunter
+- Dragon Flight
+- Magic Forest
+- Memory Game
 
-Make it your own.
-
----
-
-# Step 1
-
-## Design Your Game
-
-Don't ask Claude Code to build the game yet.
-
-Instead...
-
-Ask another AI to help design the game first.
-
-The AI will ask you questions.
-
-Your answers will become the perfect prompt.
+Or invent something completely new!
 
 ---
 
-# Prompt #1
+# Step 1 — Design Your Game
 
-## Game Designer Agent
+Don't build the game yet.
 
-Copy everything below.
+Instead, ask AI to help you design it.
+
+Your AI will ask you questions and help you think like a game designer.
+
+When you're finished, it will produce a detailed game specification.
+
+Copy the prompt below into ChatGPT or Claude.
 
 ---
+
+# Prompt #1 — Game Designer Agent
 
 ```text
 You are an expert Game Designer and Prompt Engineer.
@@ -205,14 +270,14 @@ Help me decide:
 • special powers
 • fun effects
 • target audience
-• mobile or desktop
+• desktop or mobile
 • anything else that makes the game fun
 
 Whenever I answer, ask another useful question.
 
 If my idea is confusing, help improve it.
 
-If I don't know, suggest 3 creative ideas.
+If I don't know, suggest three creative ideas.
 
 After all questions are finished, generate ONE final detailed prompt.
 
@@ -227,59 +292,68 @@ Only generate the final game specification.
 
 ---
 
-When finished...
+When you're finished...
 
-You'll have an amazing game description.
+Save the final prompt.
+
+You'll use it in the next step.
 
 ---
 
-# Step 2
+# Step 2 — Create Game Artwork
 
-## Generate Game Images
+Now it's time to become an AI artist.
 
-Now create artwork for your game.
+Use ChatGPT, Gemini, or another AI image generator.
 
-Ask an image AI to create things like:
+Create images for your game.
 
-* logo
-* player
-* enemies
-* background
-* buttons
-* icons
+Ideas:
+
+- Game logo
+- Main character
+- Enemy
+- Background
+- Buttons
+- Coins
+- Power-ups
+- Treasure
+- Game Over screen
 
 Example prompt:
 
-> Create a colorful cartoon-style pirate character for a children's browser game.
+> Create a colorful cartoon pirate character for a children's browser game. Bright colors, simple style, transparent background.
+
+Save your favorite images.
 
 ---
 
-# Step 3
-
-## (Optional) Create a Short Video
+# Step 3 (Optional) — Make a Movie Trailer
 
 Use an AI video tool.
 
-Create a 5–10 second trailer.
+Create a 5–10 second trailer for your game.
 
 Example:
 
-> A magical forest with glowing mushrooms and a tiny fox collecting stars.
+> A magical forest filled with glowing mushrooms while a tiny fox collects stars.
+
+Imagine this as an advertisement for your game.
 
 ---
 
-# Step 4
+# Step 4 — Build Your Game
 
-## Build the Game
+Now it's time to meet your AI software engineer.
 
-Now open Claude Code.
+Open Claude Code.
 
-Give Claude Code the prompt created in Step 1.
+First, paste the **game specification** that you created in Step 1.
 
-Then add:
+Then add the instructions below.
 
 ```text
-Build this as a single HTML game.
+Build this as a complete browser game.
 
 Requirements:
 
@@ -287,118 +361,214 @@ Requirements:
 - CSS
 - JavaScript
 
-Everything should be inside one HTML file.
+Everything should be inside one file called index.html.
 
-Use images if available.
+If I created images, explain where I should save them and use them in the game.
 
 The game should work by simply opening index.html.
 
-Make the game colorful.
+Include:
 
-Add simple sound effects if possible.
+- Start screen
+- Instructions
+- Score
+- Restart button
+- Winning screen
+- Losing screen
 
-Add a Start screen.
+Use colorful graphics.
 
-Add a Restart button.
+Add animations where appropriate.
 
-Keep the code clean.
+Add sound effects if possible.
 
-Comment the important parts so beginners can understand.
+Comment the important parts of the code so beginners can understand them.
 
-After finishing, review your own code and improve it if needed.
+After building the game, review your own work and improve anything that could make the game more fun or easier to understand.
 ```
 
-Claude Code will build your game.
+Claude Code will now build your game.
 
 ---
 
-# Step 5
-
-## Test It
+# Step 5 — Test Your Game
 
 Play your game.
 
 Ask yourself:
 
-* Is it fun?
-* Is it too easy?
-* Too hard?
-* Does anything look strange?
+- Is it fun?
+- Is it too easy?
+- Is it too hard?
+- Does anything look strange?
+- Is there anything you want to improve?
 
-If something isn't right...
+If you find something to improve, ask Claude Code.
 
-Ask Claude Code to improve it.
+Software is rarely perfect the first time.
 
-Software is always improved through many versions.
+Professional developers improve their software many times.
 
 ---
 
-# Step 6
+# Step 6 — Publish Your Game
 
-## Publish Your Game
+Now it's time to share your game with the world.
 
-Create a GitHub account.
+## Create a Repository
 
-Create a new repository.
+On GitHub:
+
+1. Click the **+** button.
+2. Choose **New Repository**.
+3. Give it a name.
+4. Leave it Public.
+5. Click **Create Repository**.
+
+---
+
+## Upload Your Files
+
+Click:
+
+**Add file → Upload files**
 
 Upload:
 
+- index.html
+
+and any images your game uses.
+
+Click:
+
+**Commit Changes**
+
+---
+
+## Turn on GitHub Pages
+
+1. Open **Settings**
+2. Click **Pages**
+3. Under **Source**, choose:
+
 ```
-index.html
+Deploy from a branch
 ```
 
-Enable GitHub Pages.
+4. Select:
 
-Your game will become a real website.
+```
+main
+```
 
-Now send the link to your friends.
+5. Folder:
+
+```
+/ (root)
+```
+
+6. Click **Save**
+
+Wait about one minute.
+
+GitHub will give you a website address like:
+
+```
+https://yourusername.github.io/my-awesome-game
+```
 
 Congratulations!
 
-You have shipped software.
+Your game is now live on the internet.
+
+Share the link with your friends and family.
 
 ---
 
 # Bonus Challenges
 
-If you finish early, try one or more of these:
+If you finish early, try adding:
 
-⭐ Add a high score.
+⭐ High scores
 
-⭐ Add sound effects.
+⭐ Sound effects
 
-⭐ Add background music.
+⭐ Background music
 
-⭐ Add levels.
+⭐ More levels
 
-⭐ Add power-ups.
+⭐ Better animations
 
-⭐ Add an AI opponent.
+⭐ A timer
 
-⭐ Add animations.
+⭐ Different characters
 
-⭐ Add a timer.
+⭐ Power-ups
 
-⭐ Add a settings menu.
+⭐ Mobile support
 
-⭐ Make it mobile-friendly.
+⭐ Dark Mode
 
-⭐ Let players choose different characters.
+⭐ Hidden Easter Eggs
+
+⭐ A settings menu
 
 ---
 
 # What You Learned
 
-Today you practiced skills that modern software teams use every day:
+Today you practiced real skills used by software engineers:
 
-* 💡 Turning ideas into products
-* ✍️ Writing effective prompts
-* 🤖 Working with AI agents
-* 🎨 Creating AI-generated images (and optionally videos)
-* 💻 Building software with AI
-* 🧪 Testing and improving software
-* 🌍 Publishing a real website with GitHub Pages
+✅ Turning ideas into products
 
-## A few mentoring tips
+✅ Writing better prompts
 
-Since one student is in Grade 9 and the other is in Grade 12, encourage them to work together with different roles. One can act as the **Product Designer** (coming up with ideas and answering the design questions), while the other acts as the **AI Engineer** (working with Claude Code and GitHub). Halfway through, have them swap roles so both get hands-on experience with prompting, building, and publishing. This mirrors how real software teams collaborate and helps them see that creating software is about communication and problem-solving as much as programming.
+✅ Working with multiple AI tools
+
+✅ Creating AI artwork
+
+✅ Building software using AI
+
+✅ Testing and improving software
+
+✅ Publishing a website
+
+---
+
+# Final Challenge
+
+Before you leave, be ready to answer these questions:
+
+1. What makes a good prompt?
+
+2. Why did we use different AI tools instead of only one?
+
+3. What was the hardest part?
+
+4. What was the most fun part?
+
+5. If you had another day, what would you improve?
+
+---
+
+# Congratulations!
+
+Today you experienced a complete software development workflow:
+
+💡 Idea
+
+➡️ Prompt
+
+➡️ AI Design
+
+➡️ AI Artwork
+
+➡️ AI Coding
+
+➡️ Testing
+
+➡️ Publishing
+
+This is very similar to how many modern software teams build products today.
+
+Welcome to the world of AI-powered software development! 🚀
