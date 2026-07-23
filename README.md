@@ -2,7 +2,7 @@
 
 ## Build Your Own Web Game Using AI
 
-**Duration:** 3-4 hours
+**Duration:** 2-3 hours
 
 **Goal**
 
